@@ -1,0 +1,6 @@
+CREATE TABLE profiles (
+    profileId SERIAL PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    imagePath VARCHAR(255) NOT NULL,
+    audioPath VARCHAR(255) NOT NULL
+);
