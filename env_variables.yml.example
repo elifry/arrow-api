@@ -1,0 +1,6 @@
+env_variables:
+  PGUSER: 'postgres'
+  PGHOST: 'XX.XXX.XXX.XX'
+  PGPASSWORD: '<password>'
+  PGDATABASE: 'postgres'
+  PGPORT: '5432'
